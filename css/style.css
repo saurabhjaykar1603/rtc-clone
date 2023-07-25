@@ -90,3 +90,23 @@ border-radius:5px
    filter: drop-shadow(0 0 0.45rem #fbbc05);
 
  }
+.course-card-info-container{
+    width:300px;
+    border:2px solid black;
+    padding:10px;
+    border-bottom:3px solid blue;
+    
+    box-shadow: 0 0 5px 0px #808080ad;
+    
+}
+.course-card-icon-calender-container{
+    display:flex;
+align-item:center;
+justify-content:center;
+
+
+}
+.course-card-price{
+    border-bottom: 3px double green ;
+    
+}
