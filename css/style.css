@@ -47,8 +47,8 @@ height:60px;
 
  }
  .header-img{
-   filter: drop-shadow(0 0 0.45rem #4285f4);
-width:400px!important;
+    filter: drop-shadow(0 0 0.45rem #4285f4);
+    width: 415px!important;
  }
  .common-header-btn-css{
     background-color: black;
@@ -108,5 +108,34 @@ justify-content:center;
 }
 .course-card-price{
     border-bottom: 3px double green ;
+    
+}
+.course-teacher-card{
+    display:block;
+    margin: 0 auto;
+
+    width:250px;
+backgruond-color:white;
+border-bottom:3px solid black;
+
+}
+.course-teacher-imfo-container{
+    display:flex;
+    justify-content:space-evenly;
+    align-item:center;
+}
+.course-teacher-sociale-container{
+    display:flex;
+    justify-content:center;
+    align-item:center;
+
+    
+}
+.course-teacher-img {
+    height:200px;
+    display:block;
+    width:200px;
+
+
     
 }
